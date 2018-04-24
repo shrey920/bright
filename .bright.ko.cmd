@@ -1,0 +1,1 @@
+cmd_/home/shreyas/Desktop/bright-driver/bright.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/shreyas/Desktop/bright-driver/bright.ko /home/shreyas/Desktop/bright-driver/bright.o /home/shreyas/Desktop/bright-driver/bright.mod.o ;  true
